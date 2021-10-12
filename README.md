@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrvingJuarez
 - 👀 I’m interested in Space travel, Science fiction and Technology
-- 🌱 I’m currently learning web development at Platzi and Business Management in my University in 🇲🇽
+- 🌱 I dropped out school and I’m currently learning web development in the Platzi Master program
 - 💞️ I’m looking to collaborate on AWESOME projects that push to learn new skills
 - 📫 You can follow me in Twitter @irving1_juarez
 
