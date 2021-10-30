@@ -16,20 +16,13 @@
 
 <p>Hi, I am a Front-end developer specialized in React.js and with experience with PHP and WordPress. I have designed and developed apps from scratch. As well I keep learning every single day on Platzi and currently, I am part of Platzi Master, a program where only the best talent in LATAM is chosen.. </p>
 
-<div display="flex" align-items="center">
+<h1>📊 Some of my stats are:</h1>
 
-  <div>
-    📊 <h1>Some of my stats are:</h1>
-    <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true&hide=contribs" width="400px" />
-    </p>
-  </div>
-  
-  <div align="right">
-    <img alt="GIF" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?raw=true" width="400" height="300" />
-  </div>
-  
-</div>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?raw=true" width="400" height="300" />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true&hide=contribs" width="400px" />
+</p>
 
 <br>
 
