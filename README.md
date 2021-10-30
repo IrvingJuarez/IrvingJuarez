@@ -15,16 +15,23 @@
 <br><br>
 
 <p>Hi, I am a Front-end developer specialized in React.js and with experience with PHP and WordPress. I have designed and developed apps from scratch. As well I keep learning every single day on Platzi and currently, I am part of Platzi Master, a program where only the best talent in LATAM is chosen.. </p>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?raw=true" width="400" height="300" />
+
+<div display="flex" align-items="center">
+
+  <div>
+    📊 <h1>Some of my stats are:</h1>
+    <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true&hide=contribs" width="400px" />
+    </p>
+  </div>
+  
+  <div align="right">
+    <img alt="GIF" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?raw=true" width="400" height="300" />
+  </div>
+  
+</div>
 
 <br>
-
-## 📊 Some of my stats are:
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true&hide=contribs" />
-</p>
-
-<br><br>
 
 <h1 align=center>Lenguajes and Tools</h1>
 <code><img title="html" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
