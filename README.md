@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/irvingdevjuarez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   &nbsp;
-  <a href="https://twitter.com/juarez1_irving">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/juarez1_irving"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-87-432551.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
