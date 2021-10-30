@@ -21,10 +21,10 @@
 
 ## 📊 Some of my stats are:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true&hide=contribs" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true&hide=contribs" />
 </p>
 
-<br>
+<br><br>
 
 <h1 align=center>Lenguajes and Tools</h1>
 <code><img title="html" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
