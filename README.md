@@ -21,7 +21,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?raw=true" width="400" height="300" />
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true&hide=contribs" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IrvingJuarez&theme=default&show_icons=true" width="400px" />
 </p>
 
 <br>
